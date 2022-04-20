@@ -1,10 +1,10 @@
-# JSON Placeholder API Slurper
+# JSON Placeholder API Crawler
 
 This CLI tool uses data from https://jsonplaceholder.typicode.com and combines the data to form a simple count of each of the action that is performed by the users.
 
 ## Pre-requisites
 Should have python installed.
-
+Cancel changes
 ## Development Setup
 ```shell
 $ userstat
