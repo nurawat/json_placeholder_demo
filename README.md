@@ -4,13 +4,13 @@ This CLI tool uses data from https://jsonplaceholder.typicode.com and combines t
 
 ## Pre-requisites
 Should have python installed.
-Cancel changes
+
 ## Development Setup
 ```shell
 $ userstat
 ```
 ## Setup Guide
-```shell
+```shellCancel changes
 # Create a Python Virtual Environment for managing package
 $ python3 -m venv .venv
 $ pip install --upgrade pip
